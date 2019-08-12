@@ -57,7 +57,7 @@
     "wsservice": "amazontrojans_mobile_app",
     "wsextservice": "local_mobile",
     "presets" : {"url": "https://amazontrojans.co.uk", "username": ""},
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "amazontrojans",
     "siteurl": "https://amazontrojans.co.uk",
     "sitename": "Amazon Trojans Classroom",
     "multisitesdisplay": "",
