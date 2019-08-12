@@ -56,18 +56,7 @@
     },
     "wsservice": "amazontrojans_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "presets" : {"url": "https://amazontrojans.co.uk", "username": ""},
     "customurlscheme": "moodlemobile",
     "siteurl": "https://amazontrojans.co.uk",
     "sitename": "Amazon Trojans Classroom",
